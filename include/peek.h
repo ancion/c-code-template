@@ -1,0 +1,2 @@
+
+int mapping(int a);
